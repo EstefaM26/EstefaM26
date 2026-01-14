@@ -1,56 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Estefania%20Morales&fontSize=80&fontAlignY=38&desc=Desarrolladora%20Full%20Stack%20en%20Formación&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Estefania%20Morales&fontSize=80&fontAlignY=38&desc=Desarrolladora%20Full%20Stack&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
 </div>
 
 <br>
 
 # ¡Hola! Soy Estefania Morales 👋
 
-💻 **Desarrolladora Full Stack en formación**, con experiencia en el desarrollo de aplicaciones web enfocadas en la **gestión de datos**, **sistemas de votación** y **aplicaciones institucionales**.
+💻 **Desarrolladora Full Stack** con experiencia en el desarrollo de aplicaciones web orientadas a la **gestión de datos**, **procesos institucionales** y **sistemas de votación**.
 
-Durante mi proceso de aprendizaje y prácticas he trabajado en proyectos reales como un **Sistema de Votaciones**, aplicando buenas prácticas de desarrollo, control de versiones y diseño responsivo.
+He participado en el diseño y desarrollo de soluciones web completas, aplicando buenas prácticas de programación, control de versiones y diseño responsivo.
 
 <br>
 
-## 🎯 Enfoque actual
+## 🎯 Perfil Profesional
 
 - Desarrollo backend con **Python y Django**
-- Bases de datos relacionales con **MySQL**
-- Interfaces modernas con **Tailwind CSS** y **Bootstrap**
+- Modelado y gestión de bases de datos con **MySQL**
+- Desarrollo frontend con **Tailwind CSS** y **Bootstrap**
 - Control de versiones y trabajo colaborativo con **Git y GitHub**
-- Desarrollo de proyectos funcionales orientados a usuarios reales
+- Desarrollo de aplicaciones web funcionales y escalables
 
 <br>
 
 ## 🗳️ Proyecto Destacado: Sistema de Votaciones
 
 🔹 Aplicación web para la gestión de procesos de votación  
-🔹 Registro de usuarios, candidatos y votos  
-🔹 Validaciones, conteo automático y resultados  
-🔹 Diseño responsivo y experiencia de usuario clara  
+🔹 Administración de usuarios, candidatos y roles  
+🔹 Registro y validación de votos con conteo automático  
+🔹 Visualización de resultados en tiempo real  
+🔹 Interfaz responsiva y orientada al usuario  
 
-**Tecnologías aplicadas:**
-- Django (Backend)
-- MySQL (Base de datos)
-- Tailwind CSS & Bootstrap (Frontend)
-- Git & GitHub (Versionamiento)
+**Tecnologías utilizadas:**
+- Django
+- MySQL
+- Tailwind CSS
+- Bootstrap
+- Git & GitHub
 
 <br>
 
-## 🚀 Stack Principal
+## 🚀 Stack Tecnológico
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </div>
 
 <br>
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Tecnologías
 
 <div align="center">
   
@@ -62,15 +64,6 @@ Durante mi proceso de aprendizaje y prácticas he trabajado en proyectos reales 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-<br>
-
-## 📚 Actualmente aprendiendo
-
-- Mejores prácticas en Django
-- Seguridad y validaciones en aplicaciones web
-- Optimización de bases de datos
-- Trabajo colaborativo en proyectos reales
 
 <br>
 
