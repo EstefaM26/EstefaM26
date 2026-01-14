@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Estefania%20Morales&fontSize=80&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
 </div>
@@ -12,6 +11,7 @@
 Mi enfoque está en:
 
 - **Stack MERN** (MongoDB, Express, React, Node.js)
+- **Python** y **Django** para backend robusto
 - **Laravel** y **Tailwind CSS**
 - Desarrollo de soluciones web completas
 - Gestión de proyectos y trabajo en equipo
@@ -20,6 +20,8 @@ Mi enfoque está en:
 
 ## 🚀 Stack Principal
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind"/>
@@ -35,7 +37,8 @@ Mi enfoque está en:
 
 <div align="center">
   
-  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,7 +49,6 @@ Mi enfoque está en:
 
 <br><br>
 
-<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="footer"/>
 </div>
