@@ -1,52 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Estefania%20Morales&fontSize=80&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Estefania%20Morales&fontSize=80&fontAlignY=38&desc=Desarrolladora%20Full%20Stack%20en%20Formación&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
 </div>
 
 <br>
 
-# ¡Buenas! Soy Estefania Morales 👋
+# ¡Hola! Soy Estefania Morales 👋
 
-**Desarrollador Full Stack** especializado en aplicaciones web modernas y escalables.
+💻 **Desarrolladora Full Stack en formación**, con experiencia en el desarrollo de aplicaciones web enfocadas en la **gestión de datos**, **sistemas de votación** y **aplicaciones institucionales**.
 
-Mi enfoque está en:
+Durante mi proceso de aprendizaje y prácticas he trabajado en proyectos reales como un **Sistema de Votaciones**, aplicando buenas prácticas de desarrollo, control de versiones y diseño responsivo.
 
-- **Stack MRN & SQL** (MongoDB, React, Node.js + MySQL)
-- **Gestión de Datos** con MySQL Workbench
-- **Python** y **Django** para backend robusto
-- **Laravel**, **Tailwind CSS** y **Bootstrap**
-- **Control de versiones** y colaboración con **GitHub**
+<br>
+
+## 🎯 Enfoque actual
+
+- Desarrollo backend con **Python y Django**
+- Bases de datos relacionales con **MySQL**
+- Interfaces modernas con **Tailwind CSS** y **Bootstrap**
+- Control de versiones y trabajo colaborativo con **Git y GitHub**
+- Desarrollo de proyectos funcionales orientados a usuarios reales
+
+<br>
+
+## 🗳️ Proyecto Destacado: Sistema de Votaciones
+
+🔹 Aplicación web para la gestión de procesos de votación  
+🔹 Registro de usuarios, candidatos y votos  
+🔹 Validaciones, conteo automático y resultados  
+🔹 Diseño responsivo y experiencia de usuario clara  
+
+**Tecnologías aplicadas:**
+- Django (Backend)
+- MySQL (Base de datos)
+- Tailwind CSS & Bootstrap (Frontend)
+- Git & GitHub (Versionamiento)
 
 <br>
 
 ## 🚀 Stack Principal
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </div>
 
 <br>
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías que utilizo
 
 <div align="center">
   
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<br><br>
+<br>
+
+## 📚 Actualmente aprendiendo
+
+- Mejores prácticas en Django
+- Seguridad y validaciones en aplicaciones web
+- Optimización de bases de datos
+- Trabajo colaborativo en proyectos reales
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="footer"/>
