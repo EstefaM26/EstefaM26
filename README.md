@@ -15,7 +15,7 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 ## 🌟 About Me
 
-✨ Passionate about developing functional and scalable web solutions that solve real-world problems.  
+✨ Apasionada about developing functional and scalable web solutions that solve real-world problems.  
 ⚙️ Strong focus on backend logic, database management, and well-structured applications.  
 📌 Experience working with institutional and administrative systems.
 
@@ -110,7 +110,7 @@ Academic project focused on hotel administration and reservation management.
 - Responsive interfaces  
 
 **Technologies:**  
-Python · Django / PHP · MySQL · Bootstrap
+PHP · MySQL · Bootstrap
 
 <br>
 
