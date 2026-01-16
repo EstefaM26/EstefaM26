@@ -80,8 +80,7 @@ Web application for managing institutional voting processes.
 - Automatic vote counting and results visualization
 - Protección de rutas
 
-**Technologies:**  
-Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
+**Technologies:**  Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
 
 
 <br>
@@ -95,8 +94,7 @@ Institutional administrative system for internal asset control.
 - Real-time asset tracking  
 - MVC architecture and clean code structure  
 
-**Technologies:**  
-PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
+**Technologies:**  PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
 
 <br>
 
@@ -109,8 +107,7 @@ Academic project focused on hotel administration and reservation management.
 - Business logic implementation  
 - Responsive interfaces  
 
-**Technologies:**  
-PHP · MySQL · Bootstrap
+**Technologies:**  HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
