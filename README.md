@@ -57,8 +57,7 @@ I have worked on backend and full stack projects applying clean code principles,
 
 ## 💡 Areas of Expertise
 
-🌐 Full Stack Web Development (Frontend & Backend)  
-⚙️ Object-Oriented Programming (OOP)  
+🌐 Full Stack Web Development (Frontend & Backend)   
 🧹 Clean, maintainable, and structured code  
 📊 Modeling and management of relational and non-relational databases
 🔐 Business logic and data validation  
@@ -82,7 +81,7 @@ Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
 ### 🔑 Sistema de Préstamos y Llaves (CTGI)
 Sistema administrativo desarrollado para el control interno institucional.
 - **Características:** Manejo de roles (Instructor/Administrador), seguimiento de activos en tiempo real y arquitectura MVC.
-- **Tecnologías:** PHP · Laravel · MySQL · Bootstrap · Composer · Tailwind
+- **Tecnologías:** PHP · Laravel · MySQL · Bootstrap · Composer · Tailwind · GitHub
 
   <br>
 
