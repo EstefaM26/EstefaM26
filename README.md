@@ -6,9 +6,10 @@
 
 # Hi! I'm Estefania Morales 👋
 
-💻 **Full Stack Developer** with experience building web applications focused on **institutional systems**, **data management**, and **web-based voting platforms**.
+👩‍💻 Desarrolladora Full Stack con enfoque en backend, especializada en la creación de aplicaciones web funcionales, escalables y orientadas a procesos institucionales.
+Experiencia en el desarrollo de sistemas administrativos, plataformas de votación, y gestión de datos, aplicando principios de programación orientada a objetos, código limpio y buenas prácticas de desarrollo.
 
-I have worked on backend and full stack projects applying clean code principles, object-oriented programming, version control, and responsive design.
+Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de datos relacionales y no relacionales, y construir interfaces responsivas centradas en el usuario.
 
 <br>
 
@@ -67,23 +68,51 @@ I have worked on backend and full stack projects applying clean code principles,
 
 <br>
 
-## 📚 Featured Projects
-
 ### 🗳️ Voting System
-Web application for managing institutional voting processes.  
-Includes user and candidate management, vote registration and validation, automatic vote counting, and results visualization.
+Web application for managing institutional voting processes.
+
+**Key features:**
+- User, voter, and candidate management  
+- Form to convert voters into candidates with business logic validation  
+- Candidate cards for visual presentation  
+- Candidate detail view  
+- Secure vote registration  
+- Automatic vote counting and results visualization
+- Protección de rutas
 
 **Technologies:**  
-Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub  
+Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
+
 
 <br>
 
 ### 🔑 Sistema de Préstamos y Llaves (CTGI)
-Sistema administrativo desarrollado para el control interno institucional.
-- **Características:** Manejo de roles (Instructor/Administrador), seguimiento de activos en tiempo real y arquitectura MVC.
-- **Tecnologías:** PHP · Laravel · MySQL · Bootstrap · Composer · Tailwind · GitHub
+Institutional administrative system for internal asset control.
 
-  <br>
+**Key features:**
+- Instructor view with advanced search and data filtering  
+- Role-based access control (Administrator / Instructor)  
+- Real-time asset tracking  
+- MVC architecture and clean code structure  
+
+**Technologies:**  
+PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
+
+<br>
+
+### 🏨 Hotel Management System
+Academic project focused on hotel administration and reservation management.
+
+**Key features:**
+- Room and reservation management  
+- CRUD operations  
+- Business logic implementation  
+- Responsive interfaces  
+
+**Technologies:**  
+Python · Django / PHP · MySQL · Bootstrap
+
+<br>
 
 ### 🔧 CRUD Applications
 Web applications built with Django and MySQL for structured data management and validation.
