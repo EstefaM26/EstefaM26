@@ -21,7 +21,7 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 ### 🎨 Interfaz
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,7 +78,7 @@ Web application for managing institutional voting processes.
 - Candidate detail view  
 - Secure vote registration  
 - Automatic vote counting and results visualization
-- Protección de rutas
+- Route protection and access control
 
 **Technologies:**  Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
 
@@ -99,7 +99,7 @@ Institutional administrative system for internal asset control.
 <br>
 
 ### 🏨 Hotel Management System
-Academic project focused on hotel administration and reservation management.
+Web application focused on hotel administration and reservation management.
 
 **Key features:**
 - Room and reservation management  
