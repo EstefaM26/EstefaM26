@@ -43,6 +43,7 @@ I have worked on backend and full stack projects applying clean code principles,
 ### 🗄️ Base de Datos
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
@@ -59,7 +60,7 @@ I have worked on backend and full stack projects applying clean code principles,
 🌐 Full Stack Web Development (Frontend & Backend)  
 ⚙️ Object-Oriented Programming (OOP)  
 🧹 Clean, maintainable, and structured code  
-📊 Relational database modeling and management  
+📊 Modeling and management of relational and non-relational databases
 🔐 Business logic and data validation  
 📦 Development of secure and scalable web systems  
 🎯 Responsive and user-oriented applications  
@@ -81,7 +82,7 @@ Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
 ### 🔑 Sistema de Préstamos y Llaves (CTGI)
 Sistema administrativo desarrollado para el control interno institucional.
 - **Características:** Manejo de roles (Instructor/Administrador), seguimiento de activos en tiempo real y arquitectura MVC.
-- **Tecnologías:** Laravel · MySQL · Bootstrap · Composer
+- **Tecnologías:** PHP · Laravel · MySQL · Bootstrap · Composer · Tailwind
 
   <br>
 
