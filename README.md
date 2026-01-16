@@ -107,7 +107,10 @@ Web application focused on hotel administration and reservation management.
 - Business logic implementation  
 - Responsive interfaces  
 
-**Technologies:**  HTML · CSS · PHP · MySQL · Bootstrap
+This project strengthened my understanding of backend logic, relational databases, and administrative system design.
+
+**Technologies:**  
+HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
