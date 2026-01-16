@@ -112,12 +112,26 @@ Academic project focused on hotel administration and reservation management.
 <br>
 
 ### 🔧 CRUD Applications
-Web applications built with Django and MySQL for structured data management and validation.
+Web applications developed with Django and MySQL focused on structured data management.
 
-<br>
+**Key features:**
+- CRUD operations for entities such as users, candidates, rooms, reservations, and administrative records  
+- Form handling with server-side validation  
+- Relational data modeling and integrity control  
+- Backend logic for institutional and business-oriented processes  
+- Responsive templates integrated with backend workflows  
+
+---
 
 ### 🛠️ Administrative Systems
 Backend-focused systems developed with PHP and Laravel for internal and institutional processes.
+
+**Key features:**
+- Development of administrative dashboards and management views  
+- Advanced search, filtering, and data listing  
+- Business logic implementation for systems such as asset control and hotel administration  
+- Role-based access control and permission handling  
+- MVC architecture with clean and maintainable code structure  
 
 <br>
 
