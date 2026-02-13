@@ -68,17 +68,17 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 <br>
 
-### 📅 Agenda de Contactos & Gestión
-Web application for personal and professional organization, focused on data persistence and user experience.
+### 🚀 Contact Agenda (In Progress)
+Modern web application for contact management and scheduling, built with a focus on modularity and backend efficiency.
 
 **Key features:**
-- Contact management with detailed categorization.
-- Task scheduling and event tracking.
-- Implementation of advanced search and dynamic filtering.
-- Secure user authentication and session management.
-- Integration of a responsive UI for multi-device access.
+- Contact management with Eloquent ORM relationships.
+- Authentication system and session security.
+- Advanced filtering and dynamic search capabilities.
+- Backend logic for data validation and categorization.
+- Modular architecture following MVC patterns.
 
-**Technologies:** Django · Python · MySQL · JavaScript · Bootstrap
+**Technologies:** PHP · Laravel · MySQL · Bootstrap · Composer
 
 <br>
 
@@ -87,14 +87,12 @@ Web application for managing institutional voting processes.
 
 **Key features:**
 - User, voter, and candidate management    
-- Form to convert voters into candidates with business logic validation    
-- Candidate cards for visual presentation    
-- Candidate detail view    
-- Secure vote registration    
-- Automatic vote counting and results visualization
+- Form logic with business validation    
+- Candidate detail view and cards for visual presentation    
+- Secure vote registration and automatic counting
 - Route protection and access control
 
-**Technologies:** Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
+**Technologies:** Django · Python · MySQL · Tailwind CSS · Bootstrap
 
 <br>
 
@@ -116,37 +114,31 @@ Web application focused on hotel administration and reservation management.
 
 **Key features:**
 - Room and reservation management    
-- CRUD operations    
-- Business logic implementation    
+- CRUD operations & Business logic implementation    
 - Responsive interfaces    
-
-This project strengthened my understanding of backend logic, relational databases, and administrative system design.
 
 **Technologies:** HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
 ### 🔧 CRUD Applications
-Web applications developed with Django and MySQL focused on structured data management.
+Web applications focused on structured data management.
 
 **Key features:**
-- CRUD operations for entities such as users, candidates, rooms, reservations, and administrative records    
-- Form handling with server-side validation    
-- Relational data modeling and integrity control    
-- Backend logic for institutional and business-oriented processes    
-- Responsive templates integrated with backend workflows    
+- CRUD operations for entities like users, candidates, and administrative records.  
+- Form handling with server-side validation.
+- Relational data modeling and integrity control.
 
 ---
 
 ### 🛠️ Administrative Systems
-Backend-focused systems developed with PHP and Laravel for internal and institutional processes.
+Backend-focused systems developed for internal and institutional processes.
 
 **Key features:**
-- Development of administrative dashboards and management views    
-- Advanced search, filtering, and data listing    
-- Business logic implementation for systems such as asset control and hotel administration    
-- Role-based access control and permission handling    
-- MVC architecture with clean and maintainable code structure    
+- Development of administrative dashboards and management views.
+- Advanced search, filtering, and data listing.
+- Role-based access control and permission handling.
+- MVC architecture with clean and maintainable code structure.
 
 <br>
 
