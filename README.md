@@ -58,13 +58,27 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 ## 💡 Areas of Expertise
 
-🌐 Full Stack Web Development (Frontend & Backend)   
-🧹 Clean, maintainable, and structured code  
+🌐 Full Stack Web Development (Frontend & Backend)    
+🧹 Clean, maintainable, and structured code    
 📊 Modeling and management of relational and non-relational databases
-🔐 Business logic and data validation  
-📦 Development of secure and scalable web systems  
-🎯 Responsive and user-oriented applications  
-📁 Version control and collaborative workflows  
+🔐 Business logic and data validation    
+📦 Development of secure and scalable web systems    
+🎯 Responsive and user-oriented applications    
+📁 Version control and collaborative workflows    
+
+<br>
+
+### 📅 Agenda de Contactos & Gestión
+Web application for personal and professional organization, focused on data persistence and user experience.
+
+**Key features:**
+- Contact management with detailed categorization.
+- Task scheduling and event tracking.
+- Implementation of advanced search and dynamic filtering.
+- Secure user authentication and session management.
+- Integration of a responsive UI for multi-device access.
+
+**Technologies:** Django · Python · MySQL · JavaScript · Bootstrap
 
 <br>
 
@@ -72,16 +86,15 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 Web application for managing institutional voting processes.
 
 **Key features:**
-- User, voter, and candidate management  
-- Form to convert voters into candidates with business logic validation  
-- Candidate cards for visual presentation  
-- Candidate detail view  
-- Secure vote registration  
+- User, voter, and candidate management    
+- Form to convert voters into candidates with business logic validation    
+- Candidate cards for visual presentation    
+- Candidate detail view    
+- Secure vote registration    
 - Automatic vote counting and results visualization
 - Route protection and access control
 
-**Technologies:**  Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
-
+**Technologies:** Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
 
 <br>
 
@@ -89,12 +102,12 @@ Web application for managing institutional voting processes.
 Institutional administrative system for internal asset control.
 
 **Key features:**
-- Instructor view with advanced search and data filtering  
-- Role-based access control (Administrator / Instructor)  
-- Real-time asset tracking  
-- MVC architecture and clean code structure  
+- Instructor view with advanced search and data filtering    
+- Role-based access control (Administrator / Instructor)    
+- Real-time asset tracking    
+- MVC architecture and clean code structure    
 
-**Technologies:**  PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
+**Technologies:** PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
 
 <br>
 
@@ -102,15 +115,14 @@ Institutional administrative system for internal asset control.
 Web application focused on hotel administration and reservation management.
 
 **Key features:**
-- Room and reservation management  
-- CRUD operations  
-- Business logic implementation  
-- Responsive interfaces  
+- Room and reservation management    
+- CRUD operations    
+- Business logic implementation    
+- Responsive interfaces    
 
 This project strengthened my understanding of backend logic, relational databases, and administrative system design.
 
-**Technologies:**  
-HTML · CSS · PHP · MySQL · Bootstrap
+**Technologies:** HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
@@ -118,11 +130,11 @@ HTML · CSS · PHP · MySQL · Bootstrap
 Web applications developed with Django and MySQL focused on structured data management.
 
 **Key features:**
-- CRUD operations for entities such as users, candidates, rooms, reservations, and administrative records  
-- Form handling with server-side validation  
-- Relational data modeling and integrity control  
-- Backend logic for institutional and business-oriented processes  
-- Responsive templates integrated with backend workflows  
+- CRUD operations for entities such as users, candidates, rooms, reservations, and administrative records    
+- Form handling with server-side validation    
+- Relational data modeling and integrity control    
+- Backend logic for institutional and business-oriented processes    
+- Responsive templates integrated with backend workflows    
 
 ---
 
@@ -130,11 +142,11 @@ Web applications developed with Django and MySQL focused on structured data mana
 Backend-focused systems developed with PHP and Laravel for internal and institutional processes.
 
 **Key features:**
-- Development of administrative dashboards and management views  
-- Advanced search, filtering, and data listing  
-- Business logic implementation for systems such as asset control and hotel administration  
-- Role-based access control and permission handling  
-- MVC architecture with clean and maintainable code structure  
+- Development of administrative dashboards and management views    
+- Advanced search, filtering, and data listing    
+- Business logic implementation for systems such as asset control and hotel administration    
+- Role-based access control and permission handling    
+- MVC architecture with clean and maintainable code structure    
 
 <br>
 
