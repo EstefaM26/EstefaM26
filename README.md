@@ -68,15 +68,15 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 <br>
 
-### 🚀 Contact Agenda (In Progress)
-Modern web application for contact management and scheduling, built with a focus on modularity and backend efficiency.
+### 🛰️ Agenda de Desplazamiento (Current Project)
+Administrative system designed to manage and track institutional travel, logistics, and personnel movement.
 
 **Key features:**
-- Contact management with Eloquent ORM relationships.
-- Authentication system and session security.
-- Advanced filtering and dynamic search capabilities.
-- Backend logic for data validation and categorization.
-- Modular architecture following MVC patterns.
+- Logistical tracking and scheduling of displacements.
+- Management of routes, dates, and assigned personnel.
+- Implementation of complex business rules for institutional compliance.
+- Robust backend developed with Laravel's MVC architecture.
+- Real-time data validation and reporting.
 
 **Technologies:** PHP · Laravel · MySQL · Bootstrap · Composer
 
@@ -88,7 +88,6 @@ Web application for managing institutional voting processes.
 **Key features:**
 - User, voter, and candidate management    
 - Form logic with business validation    
-- Candidate detail view and cards for visual presentation    
 - Secure vote registration and automatic counting
 - Route protection and access control
 
@@ -102,7 +101,6 @@ Institutional administrative system for internal asset control.
 **Key features:**
 - Instructor view with advanced search and data filtering    
 - Role-based access control (Administrator / Instructor)    
-- Real-time asset tracking    
 - MVC architecture and clean code structure    
 
 **Technologies:** PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
@@ -115,19 +113,17 @@ Web application focused on hotel administration and reservation management.
 **Key features:**
 - Room and reservation management    
 - CRUD operations & Business logic implementation    
-- Responsive interfaces    
 
 **Technologies:** HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
 ### 🔧 CRUD Applications
-Web applications focused on structured data management.
+Web applications focused on structured data management and relational integrity.
 
 **Key features:**
-- CRUD operations for entities like users, candidates, and administrative records.  
-- Form handling with server-side validation.
-- Relational data modeling and integrity control.
+- Entity management for candidates, users, and administrative records.
+- Server-side validation and secure data handling.
 
 ---
 
@@ -135,10 +131,9 @@ Web applications focused on structured data management.
 Backend-focused systems developed for internal and institutional processes.
 
 **Key features:**
-- Development of administrative dashboards and management views.
 - Advanced search, filtering, and data listing.
-- Role-based access control and permission handling.
-- MVC architecture with clean and maintainable code structure.
+- Role-based access control (RBAC).
+- Clean code and maintainable MVC structure.
 
 <br>
 
