@@ -68,15 +68,15 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 
 <br>
 
-### 🛰️ Agenda de Desplazamiento (Current Project)
-Administrative system designed to manage and track institutional travel, logistics, and personnel movement.
+### 🛰️ Agenda de Desplazamiento
+Sistema administrativo diseñado para la gestión y seguimiento de traslados, logística y movimientos institucionales.
 
 **Key features:**
-- Logistical tracking and scheduling of displacements.
-- Management of routes, dates, and assigned personnel.
-- Implementation of complex business rules for institutional compliance.
-- Robust backend developed with Laravel's MVC architecture.
-- Real-time data validation and reporting.
+- Seguimiento logístico y programación de desplazamientos
+- Gestión de rutas, fechas y personal asignado
+- Implementación de reglas de negocio para cumplimiento institucional
+- Arquitectura modular basada en patrones MVC para mayor escalabilidad
+- Validación de datos y generación de reportes
 
 **Technologies:** PHP · Laravel · MySQL · Bootstrap · Composer
 
@@ -86,12 +86,16 @@ Administrative system designed to manage and track institutional travel, logisti
 Web application for managing institutional voting processes.
 
 **Key features:**
-- User, voter, and candidate management    
-- Form logic with business validation    
-- Secure vote registration and automatic counting
+- User, voter, and candidate management  
+- Form to convert voters into candidates with business logic validation  
+- Candidate cards for visual presentation  
+- Candidate detail view  
+- Secure vote registration  
+- Automatic vote counting and results visualization
 - Route protection and access control
 
-**Technologies:** Django · Python · MySQL · Tailwind CSS · Bootstrap
+**Technologies:** Django · Python · MySQL · Tailwind CSS · Bootstrap · GitHub
+
 
 <br>
 
@@ -99,9 +103,10 @@ Web application for managing institutional voting processes.
 Institutional administrative system for internal asset control.
 
 **Key features:**
-- Instructor view with advanced search and data filtering    
-- Role-based access control (Administrator / Instructor)    
-- MVC architecture and clean code structure    
+- Instructor view with advanced search and data filtering  
+- Role-based access control (Administrator / Instructor)  
+- Real-time asset tracking  
+- MVC architecture and clean code structure  
 
 **Technologies:** PHP · Laravel · MySQL · Bootstrap · Tailwind CSS · Composer
 
@@ -111,29 +116,38 @@ Institutional administrative system for internal asset control.
 Web application focused on hotel administration and reservation management.
 
 **Key features:**
-- Room and reservation management    
-- CRUD operations & Business logic implementation    
+- Room and reservation management  
+- CRUD operations  
+- Business logic implementation  
+- Responsive interfaces  
+
+This project strengthened my understanding of backend logic, relational databases, and administrative system design.
 
 **Technologies:** HTML · CSS · PHP · MySQL · Bootstrap
 
 <br>
 
 ### 🔧 CRUD Applications
-Web applications focused on structured data management and relational integrity.
+Web applications developed with Django and MySQL focused on structured data management.
 
 **Key features:**
-- Entity management for candidates, users, and administrative records.
-- Server-side validation and secure data handling.
+- CRUD operations for entities such as users, candidates, rooms, reservations, and administrative records  
+- Form handling with server-side validation  
+- Relational data modeling and integrity control  
+- Backend logic for institutional and business-oriented processes  
+- Responsive templates integrated with backend workflows  
 
 ---
 
 ### 🛠️ Administrative Systems
-Backend-focused systems developed for internal and institutional processes.
+Backend-focused systems developed with PHP and Laravel for internal and institutional processes.
 
 **Key features:**
-- Advanced search, filtering, and data listing.
-- Role-based access control (RBAC).
-- Clean code and maintainable MVC structure.
+- Development of administrative dashboards and management views  
+- Advanced search, filtering, and data listing  
+- Business logic implementation for systems such as asset control and hotel administration  
+- Role-based access control and permission handling  
+- MVC architecture with clean and maintainable code structure  
 
 <br>
 
