@@ -72,11 +72,11 @@ Capaz de diseñar y desarrollar lógica de negocio compleja, manejar bases de da
 Sistema administrativo diseñado para la gestión y seguimiento de traslados, logística y movimientos institucionales.
 
 **Key features:**
-- Seguimiento logístico y programación de desplazamientos
-- Gestión de rutas, fechas y personal asignado
-- Implementación de reglas de negocio para cumplimiento institucional
-- Arquitectura modular basada en patrones MVC para mayor escalabilidad
-- Validación de datos y generación de reportes
+- **Sistema de Roles:** Implementación de diferentes niveles de acceso y permisos según el perfil del usuario.
+- **Dashboards Personalizados:** Creación de vistas y tableros de control específicos para cada rol, optimizando la experiencia de usuario (UX).
+- Seguimiento logístico y programación de desplazamientos.
+- Gestión de rutas, fechas y personal asignado.
+- Arquitectura modular basada en patrones MVC bajo el framework Laravel.
 
 **Technologies:** PHP · Laravel · MySQL · Bootstrap · Composer
 
